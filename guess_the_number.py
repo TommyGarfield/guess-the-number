@@ -8,6 +8,7 @@ counter = 0
 
 #asks user for number
 guess = int(input("Try to guess the secret number... "))
+#adds 1 to the counter after first guess
 counter += 1
 
 
